@@ -1,4 +1,4 @@
-INSERT INTO users (name, password) VALUES ('toto', 'toto');
+-- INSERT INTO users (name, password) VALUES ('toto', 'toto');
 
 
 

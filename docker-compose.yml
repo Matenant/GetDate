@@ -29,6 +29,6 @@ services:
       - 3306:3306
     environment:
       - MYSQL_ROOT_PASSWORD=mysqlroot
-      - MYSQL_DATABASE=parc
+      - MYSQL_DATABASE=getdate
       - MYSQL_USER=mysqlusr
       - MYSQL_PASSWORD=mysqlpwd
